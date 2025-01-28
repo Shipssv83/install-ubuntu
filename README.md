@@ -1,4 +1,5 @@
 # install-ubuntu
+```
 #!/bin/bash
 echo "
  SSSSSSS  EEEEEEE  RRRRRR   HHH   HHH IIIIIIII IIIIIIII
@@ -105,3 +106,4 @@ setup_ssh
 configure_sshd
 
 fancy_echo "Done."
+```
